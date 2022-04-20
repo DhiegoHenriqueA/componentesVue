@@ -16,6 +16,6 @@ export default {
 </template>
 <style>
 .box-artigo {
-  background-color: grey;
+  background-color: gainsboro;
 }
 </style>
